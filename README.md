@@ -25,4 +25,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
