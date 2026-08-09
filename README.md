@@ -17,6 +17,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 ## Stack
 |  |
 | ------- |
