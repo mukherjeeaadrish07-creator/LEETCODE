@@ -26,6 +26,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -42,4 +43,24 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
