@@ -11,6 +11,7 @@ Here are the solutions to leetcode problems.
 | [0627-swap-sex-of-employees](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1084-sales-analysis-iii) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
