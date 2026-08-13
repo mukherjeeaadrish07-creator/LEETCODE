@@ -13,6 +13,7 @@ Here are the solutions to leetcode problems.
 | [1084-sales-analysis-iii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1084-sales-analysis-iii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1484-group-sold-products-by-the-date) |
+| [1587-bank-account-summary-ii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
