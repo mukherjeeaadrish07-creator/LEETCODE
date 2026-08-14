@@ -7,6 +7,7 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0511-game-play-analysis-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
