@@ -41,6 +41,7 @@ Here are the solutions to leetcode problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -95,4 +97,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
