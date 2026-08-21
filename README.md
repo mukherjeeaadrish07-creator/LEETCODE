@@ -35,6 +35,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -43,6 +44,7 @@ Here are the solutions to leetcode problems.
 | [0020-valid-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
@@ -75,6 +77,7 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,4 +112,20 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
