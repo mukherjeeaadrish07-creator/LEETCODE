@@ -27,6 +27,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 ## Hash Table
@@ -103,4 +104,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
