@@ -3,8 +3,6 @@ class Solution:
         for i in range(len(nums)+1):
             if nums[i] == target:
                 return i
-            #elif target == 0:
-                #return 0
             else:
                 nums.append(target)
                 nums.sort()
