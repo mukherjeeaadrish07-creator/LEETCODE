@@ -32,6 +32,7 @@ Here are the solutions to leetcode problems.
 | [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Here are the solutions to leetcode problems.
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
