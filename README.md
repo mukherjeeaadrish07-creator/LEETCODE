@@ -25,6 +25,7 @@ Here are the solutions to leetcode problems.
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1890-the-latest-login-in-2020) |
+| [1934-confirmation-rate](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1934-confirmation-rate) |
 ## Array
 |  |
 | ------- |
