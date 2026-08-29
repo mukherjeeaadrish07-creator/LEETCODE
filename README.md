@@ -34,6 +34,7 @@ Here are the solutions to leetcode problems.
 | [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
