@@ -38,6 +38,7 @@ Here are the solutions to leetcode problems.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Here are the solutions to leetcode problems.
 | [0013-roman-to-integer](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
