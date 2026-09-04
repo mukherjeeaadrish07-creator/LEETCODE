@@ -39,6 +39,7 @@ Here are the solutions to leetcode problems.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +153,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
