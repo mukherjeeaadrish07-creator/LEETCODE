@@ -41,6 +41,7 @@ Here are the solutions to leetcode problems.
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,4 +161,5 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
