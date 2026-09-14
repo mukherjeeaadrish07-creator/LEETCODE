@@ -77,6 +77,7 @@ Here are the solutions to leetcode problems.
 | [0009-palindrome-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
+| [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
@@ -178,4 +179,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
