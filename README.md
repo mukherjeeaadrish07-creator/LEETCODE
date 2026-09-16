@@ -12,6 +12,7 @@ Here are the solutions to leetcode problems.
 | [0196-delete-duplicate-emails](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0511-game-play-analysis-i) |
+| [0550-game-play-analysis-iv](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0619-biggest-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0627-swap-sex-of-employees) |
