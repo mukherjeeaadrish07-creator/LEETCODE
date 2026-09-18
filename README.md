@@ -35,6 +35,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ Here are the solutions to leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0344-reverse-string) |
 ## String Matching
