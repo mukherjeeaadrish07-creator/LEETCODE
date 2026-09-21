@@ -39,6 +39,7 @@ Here are the solutions to leetcode problems.
 | [0027-remove-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -152,6 +153,7 @@ Here are the solutions to leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
