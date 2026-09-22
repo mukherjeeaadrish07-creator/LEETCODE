@@ -57,6 +57,7 @@ Here are the solutions to leetcode problems.
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -70,6 +71,7 @@ Here are the solutions to leetcode problems.
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -131,6 +133,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |
@@ -155,6 +158,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0136-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
