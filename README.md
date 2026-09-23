@@ -41,6 +41,7 @@ Here are the solutions to leetcode problems.
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -57,6 +58,7 @@ Here are the solutions to leetcode problems.
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -84,6 +86,7 @@ Here are the solutions to leetcode problems.
 | [0009-palindrome-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3870-count-commas-in-range) |
@@ -133,6 +136,7 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
@@ -153,11 +157,13 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
