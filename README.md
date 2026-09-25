@@ -87,6 +87,7 @@ Here are the solutions to leetcode problems.
 | [0009-palindrome-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
