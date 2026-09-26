@@ -41,6 +41,7 @@ Here are the solutions to leetcode problems.
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -58,6 +59,7 @@ Here are the solutions to leetcode problems.
 | [0013-roman-to-integer](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
@@ -138,6 +140,7 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
