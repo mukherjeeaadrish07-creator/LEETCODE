@@ -43,6 +43,7 @@ Here are the solutions to leetcode problems.
 | [0169-majority-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -113,6 +114,7 @@ Here are the solutions to leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
