@@ -78,6 +78,7 @@ Here are the solutions to leetcode problems.
 | [0242-valid-anagram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -103,11 +104,13 @@ Here are the solutions to leetcode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
