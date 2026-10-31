@@ -95,6 +95,7 @@ Here are the solutions to leetcode problems.
 | [0009-palindrome-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -169,6 +170,7 @@ Here are the solutions to leetcode problems.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -223,4 +225,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
