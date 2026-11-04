@@ -48,6 +48,7 @@ Here are the solutions to leetcode problems.
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2974-minimum-number-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -159,6 +160,7 @@ Here are the solutions to leetcode problems.
 | [0268-missing-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0389-find-the-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2974-minimum-number-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Here are the solutions to leetcode problems.
 | [0412-fizz-buzz](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
@@ -229,4 +232,8 @@ Here are the solutions to leetcode problems.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
