@@ -104,6 +104,7 @@ Here are the solutions to leetcode problems.
 | [0412-fizz-buzz](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3870-count-commas-in-range) |
