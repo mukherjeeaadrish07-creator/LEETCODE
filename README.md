@@ -48,6 +48,7 @@ Here are the solutions to leetcode problems.
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2974-minimum-number-game) |
@@ -106,6 +107,7 @@ Here are the solutions to leetcode problems.
 | [0836-rectangle-overlap](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3870-count-commas-in-range) |
