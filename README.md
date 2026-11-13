@@ -47,6 +47,7 @@ Here are the solutions to leetcode problems.
 | [0283-move-zeroes](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -89,6 +90,7 @@ Here are the solutions to leetcode problems.
 | [1108-defanging-an-ip-address](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -137,6 +139,7 @@ Here are the solutions to leetcode problems.
 | [0283-move-zeroes](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |
