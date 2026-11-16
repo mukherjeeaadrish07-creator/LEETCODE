@@ -93,6 +93,7 @@ Here are the solutions to leetcode problems.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -188,6 +189,7 @@ Here are the solutions to leetcode problems.
 | [0258-add-digits](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/0682-baseball-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/mukherjeeaadrish07-creator/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
